@@ -1,0 +1,35 @@
+body {
+	background: #FFFAF0;
+	color: #463E3F;
+	text-align: center;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	min-width: 800px;
+}
+
+.roundTracker {
+	margin-bottom: 10px;
+}
+
+.playerInformation {
+	display:inline-block;
+}
+
+.pointsDiv {
+	display: inline-block;
+}
+
+.playerInformation p {
+	text-align: right;
+}
+
+.upButton, .downButton {
+	padding: 3px 5px;
+}
+
+.upButton {
+	margin: 0 5px;
+}
+
+.symbol {
+	margin-top: 10px
+}
