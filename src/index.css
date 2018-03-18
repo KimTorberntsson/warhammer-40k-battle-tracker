@@ -4,6 +4,7 @@ body {
 	text-align: center;
 	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
 	min-width: 800px;
+	margin-left: 0;
 }
 
 .roundTracker {
@@ -31,5 +32,11 @@ body {
 }
 
 .symbol {
-	margin-top: 10px
+	margin-top: 10px;
+}
+
+.addPlayerButton {
+	position: fixed;
+	bottom: 10px;
+	left: 10px;
 }
